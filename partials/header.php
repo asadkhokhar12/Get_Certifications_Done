@@ -40,7 +40,7 @@
     </div>
     <nav id="navbarBelow" class="navbar navbar-expand-lg">
         <div class="container">
-            <a class="navbar-brand" href="index"><img src="img/logo.png" alt=""></a>
+            <a class="navbar-brand" href="https://getmycertificationdone.com/"><img src="img/logo.png" alt=""></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
                 aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <i class="fas fa-stream"></i>
@@ -48,7 +48,7 @@
             <div class="collapse navbar-collapse justify-content-center" id="navbarNavDropdown">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="index">Home</a>
+                        <a class="nav-link" aria-current="page" href="https://getmycertificationdone.com/">Home</a>
                     </li>
 
                     <li class="nav-item">
