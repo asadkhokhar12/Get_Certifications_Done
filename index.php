@@ -54,7 +54,7 @@
                 <div class="form_top">
                     <h3 class="text-center">Get 40% OFF When You Ask Us to Take My Exam Today!</h3>
                 </div>
-                <form action="backend/action/action" method="POST">
+                <form action="/backend/action/action" method="POST">
                     <input type="hidden" name="type" value="contactForm">
                     <div class="form-group">
 
@@ -782,7 +782,7 @@
                             Us. </b></h2>
                     <p>Pass your certification exam on the first attempt or your money back! </p>
                 </div>
-                <form action="backend/action/action" method="POST">
+                <form action="/backend/action/action" method="POST">
                     <input type="hidden" name="type" value="contactFormTwo">
                     <div class="row align-items-center">
                         <div class="col-lg-3 col-md-6">

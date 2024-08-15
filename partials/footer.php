@@ -46,7 +46,7 @@
             </div>
             <div class="modal-body ">
                 <div id="popupform" class="inform">
-                    <form action="backend/action/action" method="POST">
+                    <form action="/backend/action/action" method="POST">
                         <input type="hidden" name="type" value="contactForm">
                         <div class="row gy-3">
                             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">

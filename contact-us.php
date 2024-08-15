@@ -26,7 +26,7 @@
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
           <div class="terms_section_form">
             <h5 class="fs-3">Order <span class="bold_blue">Right Away</span> To Score Top Grades </h5>
-            <form method="POST" action="backend/action/action" class="d-grid gap-4">
+            <form method="POST" action="/backend/action/action" class="d-grid gap-4">
               <input type="hidden" name="type" value="contactForm">
               <div class="form-group">
                 <label>Your name *</label>

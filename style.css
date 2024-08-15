@@ -324,9 +324,9 @@ footer {
 /* ModalCSS */
 .h_banner {
   padding: 30px 0;
-  background: url(img/banner.jpg) center/cover no-repeat;
+  background: url(img/banner.png) center/cover no-repeat;
   color: #fff;
-  filter: hue-rotate(315deg);
+  filter: hue-rotate(338deg);
 }
 .ban_left ul li {
   padding: 5px 0;
