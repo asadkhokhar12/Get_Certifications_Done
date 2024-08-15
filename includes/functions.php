@@ -16,5 +16,5 @@ switch ($functions) {
 }
 
 /**** PHONE NUMBER ****/
-$tel_no = "+1 (559) 460‑9608";
+$tel_no = "+1 304-956-5418";
 $whatsapp_no = "+1 (559) 460‑9608";

@@ -94,7 +94,7 @@
 <!-- WHATSAPP CHAT SCRIPT -->
 <div class="navbar-fixed-bottom">
     <div class="col-md-12 whappfooter">
-        <a href="https://api.whatsapp.com/send?phone=<?php echo $whatsapp_no ?>&amp;text=Hi%20getmycertificationdone.com,"
+        <a href="https://api.whatsapp.com/send?phone=+1 (559) 460‑9608&amp;text=Hi%20getmycertificationdone.com,"
             class="float" target="_blank"> <i class="fab fa-whatsapp"></i>Whatsapp Now</a>
     </div>
 </div>
