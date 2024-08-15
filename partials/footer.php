@@ -15,8 +15,8 @@
                         <div class="foot_box">
                             <h3>Useful Links</h3>
                             <ul>
-                                <li><a href="contact-us.html">Contact Us</a></li>
-                                <li><a href="terms-conditions.html">Terms &amp; Conditions</a></li>
+                                <li><a href="contact-us">Contact Us</a></li>
+                                <li><a href="terms-conditions">Terms &amp; Conditions</a></li>
                             </ul>
                         </div>
                     </div>
