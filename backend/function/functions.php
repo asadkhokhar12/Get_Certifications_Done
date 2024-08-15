@@ -73,8 +73,8 @@ function sendEmail($message, $subject = 'Lead from Get My Certification Done', $
         $mail->SMTPAuth = true;
         $mail->Username = 'noreply@getmycertificationdone.com';
         $mail->Password = 'Certificate@2024';
-        $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-        $mail->Port = 587;
+        $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
+        $mail->Port = 465;
 
         // Recipients for the main email
         $mail->setFrom('noreply@getmycertificationdone.com');

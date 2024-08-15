@@ -10,6 +10,7 @@
     <!--  Styles  -->
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="css/thank.css">
+    <link rel="shortcut icon" href="icon/fav.png" />
 
 </head>
 
