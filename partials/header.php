@@ -59,8 +59,8 @@
                     </li>
                 </ul>
             </div>
-            <a href="https://api.whatsapp.com/send?phone=+1 (559) 460‑9608&amp;text=Hi%20getmycertificationdone.com,"
-                class="navbar-right-button ms-auto ms-lg-0" target="_blank"><i class="fa-brands fa-whatsapp"></i>
-                Whatsapp Now</a>
+           
+                <a href="https://api.whatsapp.com/send?phone=++15594609608&amp;text=Hi%20getmycertificationsdone.com," class="navbar-right-button ms-auto ms-lg-0" target="_blank"><i class="fa-brands fa-whatsapp"></i> Whatsapp Now</a>
+
         </div>
     </nav>
